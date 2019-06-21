@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9F7AD9C1-12C4-D217-4260-444DDB6146DE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VRShooting/Scripts/Example.cs">
+    <Files>
+      <File FileName="Assets/VRShooting/Scripts/Example.cs" Line="17" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
